@@ -34,4 +34,4 @@ Se você quiser contribuir com este projeto, siga estas etapas:
 
 ## Autor
 
-Desenvolvido por [JohnatanG3](https://github.com/SeuUsuario) na trilha Start na Programação 🤘 da OneBitCode.
+Desenvolvido por [JohnatanG3](https://github.com/JohnatanG3) na trilha Start na Programação 🤘 da OneBitCode.
